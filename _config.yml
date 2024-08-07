@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "milla.jpeg"
   name             : "Milla Hägg"
-  pronouns         : "she/her"  
+  pronouns         : #"she/her"  
   bio              : "Doctoral researcher in economics"
   location         : #
   employer         : "University of Helsinki"
