@@ -13,7 +13,7 @@ I am a 4th year PhD student at the Helsinki Graduate School of Economics mainly 
 
 **Inertia in the Demand for Oral Contraceptives** *with Elina Jussila*
 
-**Prescribing of Pharmaceuticals with High Price Dispersion**
+**Physician prescribing behaviour in markets with dispersed prices**
 
 **Entry in the Nordic Pharmaceutical Markets** *with Jaakko Markkanen, Mika Kortelainen, Markku Siikanen & Otto Toivanen*
 
