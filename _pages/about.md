@@ -9,6 +9,7 @@ redirect_from:
 
 I am a 4th year PhD student at the Helsinki Graduate School of Economics mainly interested in industrial organization and health economics. Most of my current research is focused on pharmaceutical markets: I study entry, mergers and acquisitions as well as patient and physician behaviour in these markets.
 
+
 # Ongoing research
 
 **Inertia in the Demand for Oral Contraceptives** *with Elina Jussila*
@@ -20,6 +21,7 @@ I am a 4th year PhD student at the Helsinki Graduate School of Economics mainly 
 **Price and Non-price Effects of Mergers in the Nordic Pharmaceutical Markets** *with Markku Siikanen*
 
 **Long-term Effects of Maternity Ward Closures on Children** *with Mika Kortelainen*
+
 
 # Publications
 
