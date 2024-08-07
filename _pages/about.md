@@ -11,13 +11,15 @@ I am a 4th year PhD student at the Helsinki Graduate School of Economics mainly 
 
 # On-going research
 
-**Inertia in the demand for oral contraceptives** *with Elina Jussila*
+**Inertia in the Demand for Oral Contraceptives** *with Elina Jussila*
 
-**Prescribing of pharmaceuticals with high price dispersion**
+**Prescribing of Pharmaceuticals with High Price Dispersion**
 
-**Entry in the Nordic pharmaceutical markets** *with Jaakko Markkanen, Mika Kortelainen, Markku Siikanen & Otto Toivanen*
+**Entry in the Nordic Pharmaceutical Markets** *with Jaakko Markkanen, Mika Kortelainen, Markku Siikanen & Otto Toivanen*
 
-**Price and non-price effects of mergers in the Nordic pharmaceutical markets** *with Markku Siikanen*
+**Price and Non-price Effects of Mergers in the Nordic Pharmaceutical Markets** *with Markku Siikanen*
+
+**Long-term Effects of Maternity Ward Closures on Children** *with Mika Kortelainen*
 
 # Publications
 
