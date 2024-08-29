@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a 4th year PhD student at the Helsinki Graduate School of Economics mainly interested in industrial organization and health economics. Most of my current research is focused on pharmaceutical markets: I study entry, mergers and acquisitions as well as patient and physician behaviour in these markets.
+I am a 4th year PhD student at the Helsinki Graduate School of Economics mainly interested in industrial organization and health economics. Most of my current research is focused on pharmaceutical markets: I study entry, mergers and acquisitions as well as firm, patient and physician behaviour in these markets.
 
 
 # Ongoing research
