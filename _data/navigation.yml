@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Research"
-    url: /_pages/publications.md
+    url: /publications/
   - title: "CV"
     url: /files/cv_hagg_august24.pdf
 
