@@ -30,3 +30,6 @@ I am a 4th year PhD student at the Helsinki Graduate School of Economics mainly 
 ## Policy work
 **Additional Public Procurement in Health Services: Lessons from Finnish Physiotherapy Markets**
 *In Journal of the Finnish Economic Association (2024) Vol. 5 No. 1 with Visa Pitkänen,* **[LINK](https://journal.fi/jfea/article/view/137938)**
+
+**Municipalities’ operations models and financing responsibility in preventing and reducing the need for social assistance**
+*In Publications of the Government´s analysis, assessment and research activities 2021:23 (only in Finnish) with A. Rissanen, T. Tupala, M. Valtakari, M. Yli-Koski, R. Aro & R-L Leskelä,* **[LINK]([https://www.nature.com/articles/s41467-022-28825-4](https://julkaisut.valtioneuvosto.fi/handle/10024/163025))**
