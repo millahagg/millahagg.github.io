@@ -12,24 +12,24 @@ I am a 4th year PhD student at the Helsinki Graduate School of Economics mainly 
 
 ## Ongoing research
 
-**Inertia in the Demand for Oral Contraceptives** *with Elina Jussila*
+**Inertia in the Demand for Oral Contraceptives** *with E. Jussila*
 
 **Physician Prescribing Behaviour in Markets with Dispersed Prices**
 
-**Entry in the Nordic Pharmaceutical Markets** *with Jaakko Markkanen, Mika Kortelainen, Markku Siikanen & Otto Toivanen*
+**Entry in the Nordic Pharmaceutical Markets** *with J. Markkanen, M. Kortelainen, M. Siikanen & O. Toivanen*
 
-**Price and Non-price Effects of Mergers in the Nordic Pharmaceutical Markets** *with Markku Siikanen*
+**Price and Non-price Effects of Mergers in the Nordic Pharmaceutical Markets** *with M. Siikanen*
 
-**Long-term Effects of Maternity Ward Closures on Children** *with Mika Kortelainen*
+**Long-term Effects of Maternity Ward Closures on Children** *with M. Kortelainen*
 
 
 ## Publications
 **The Indirect Effect of mRNA-based COVID-19 Vaccination on Healthcare Workers’ Unvaccinated Household Members**
-*In Nature Communications (2022) 13:1162 with Jussipekka Salo, Mika Kortelainen, Tuija Leino, Tanja Saxell, Markku Siikanen & Lauri Sääksvuori,* **[LINK](https://www.nature.com/articles/s41467-022-28825-4)**
+*In Nature Communications (2022) 13:1162 with J. Salo, M. Kortelainen, T. Leino, T. Saxell, M. Siikanen & L. Sääksvuori,* **[LINK](https://www.nature.com/articles/s41467-022-28825-4)**
 
 ## Policy work
 **Additional Public Procurement in Health Services: Lessons from Finnish Physiotherapy Markets**
-*In Journal of the Finnish Economic Association (2024) Vol. 5 No. 1 with Visa Pitkänen,* **[LINK](https://journal.fi/jfea/article/view/137938)**
+*In Journal of the Finnish Economic Association (2024) Vol. 5 No. 1 with V. Pitkänen,* **[LINK](https://journal.fi/jfea/article/view/137938)**
 
 **Municipalities’ operations models and financing responsibility in preventing and reducing the need for social assistance**
 *In Publications of the Government´s analysis, assessment and research activities 2021:23 (available in Finnish) with A. Rissanen, T. Tupala, M. Valtakari, M. Yli-Koski, R. Aro & R-L Leskelä,* **[LINK](https://julkaisut.valtioneuvosto.fi/handle/10024/163025)**
