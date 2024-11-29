@@ -14,14 +14,13 @@ I am a 4th year PhD student at the Helsinki Graduate School of Economics mainly 
 
 **Inertia in the Demand for Oral Contraceptives** *with E. Jussila*
 
-**Physician Prescribing Behaviour in Markets with Dispersed Prices**
-
-**Entry in the Nordic Pharmaceutical Markets** *with J. Markkanen, M. Kortelainen, M. Siikanen & O. Toivanen*
-
-**Price and Non-price Effects of Mergers in the Nordic Pharmaceutical Markets** *with M. Siikanen*
+**Price and Non-price Effects of Cross-market Mergers in regulated markets** *with M. Siikanen*
 
 **Long-term Effects of Maternity Ward Closures on Children** *with M. Kortelainen*
 
+**Physician Prescribing Behaviour in Markets with Dispersed Prices**
+
+**Entry in the Nordic Pharmaceutical Markets** *with J. Markkanen, M. Kortelainen, M. Siikanen & O. Toivanen*
 
 ## Publications
 **The Indirect Effect of mRNA-based COVID-19 Vaccination on Healthcare Workers’ Unvaccinated Household Members**
