@@ -12,7 +12,7 @@ I am a 4th year PhD student at the Helsinki Graduate School of Economics, under 
 
 ## Work in progress
 
-**History Fependence and Firm Incentives in Free Contraception Programs** *with E. Jussila* 
+**History Dependence and Firm Incentives in Free Contraception Programs** *with E. Jussila* 
 
 **Price and Non-price Effects of Cross-market Mergers in Regulated Markets** *with M. Siikanen*
 
