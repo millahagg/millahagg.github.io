@@ -10,9 +10,9 @@ redirect_from:
 I am a 4th year PhD student at the Helsinki Graduate School of Economics, under the supervision of Otto Toivanen and Torsten Santavirta. I work on industrial organization and health economics. Most of my current research is focused on pharmaceutical markets: I study entry, mergers and acquisitions as well as firm, patient and physician behaviour in these markets.
 
 
-## Ongoing research
+## Work in progress
 
-**Inertia in the Demand for Oral Contraceptives** *with E. Jussila*
+**History Fependence and Firm Incentives in Free Contraception Programs** *with E. Jussila* 
 
 **Price and Non-price Effects of Cross-market Mergers in Regulated Markets** *with M. Siikanen*
 
@@ -21,6 +21,8 @@ I am a 4th year PhD student at the Helsinki Graduate School of Economics, under 
 **Physician Prescribing Behaviour in Markets with Dispersed Prices**
 
 **Entry in the Nordic Pharmaceutical Markets** *with J. Markkanen, M. Kortelainen, M. Siikanen & O. Toivanen*
+
+**Adoption and Effefcts of Free Contraception Programs** *with E. Jussila, S. Metsälampi, M. Kortelainen & M. Viertola*
 
 ## Publications
 **The Indirect Effect of mRNA-based COVID-19 Vaccination on Healthcare Workers’ Unvaccinated Household Members**
