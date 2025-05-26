@@ -22,7 +22,7 @@ I am a 4th year PhD student at the Helsinki Graduate School of Economics, under 
 
 **Entry in the Nordic Pharmaceutical Markets** *with J. Markkanen, M. Kortelainen, M. Siikanen & O. Toivanen*
 
-**Adoption and Effefcts of Free Contraception Programs** *with E. Jussila, S. Metsälampi, M. Kortelainen & M. Viertola*
+**Adoption and Effects of Free Contraception Programs** *with E. Jussila, S. Metsälampi, M. Kortelainen & M. Viertola*
 
 ## Publications
 **The Indirect Effect of mRNA-based COVID-19 Vaccination on Healthcare Workers’ Unvaccinated Household Members**
