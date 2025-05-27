@@ -32,7 +32,7 @@ I am a 4th year PhD student at the Helsinki Graduate School of Economics, under 
 **Additional Public Procurement in Health Services: Lessons from Finnish Physiotherapy Markets**
 *In Journal of the Finnish Economic Association (2024) Vol. 5 No. 1 with V. Pitkänen,* **[LINK](https://journal.fi/jfea/article/view/137938)**
 
-**Covid-19 Pandemic and Mental Health Differences Between Socioeconomic Groups**
+**COVID-19 Pandemic and Mental Health Differences Between Socioeconomic Groups**
 *Helsinki GSE Situation Room report 16.8.2021 (available in Finnish) with M. Kortelainen, T. Saxell, L. Sääksvuori, A. Valkonen, M. Siikanen, H. Rantakaulio, J. Salo **[LINK](https://web.archive.org/web/20210816084734/https://www.helsinkigse.fi/corona/koronapandemia-ja-mielenterveyserot-eri-sosioekonomisissa-ryhmissa/)**
 
 **Municipalities’ Operations Models and Financing Responsibility in Preventing and Reducing the Need for Social Assistance**
