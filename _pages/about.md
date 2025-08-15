@@ -9,7 +9,7 @@ redirect_from:
 
 I am a 5th year PhD student at the Helsinki Graduate School of Economics, under the supervision of Otto Toivanen and Torsten Santavirta. I work on industrial organization and health economics. Most of my current research is focused on pharmaceutical markets: I study entry, mergers and acquisitions as well as firm, patient and physician behaviour in these markets.
 
-**I will be on the 2025/2026 job market.**
+**I will be on the 2025/2026 academic job market.**
 
 ## Working papers
 
