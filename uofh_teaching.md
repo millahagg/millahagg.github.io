@@ -1,23 +1,9 @@
----
-title: "Game Theory"
-collection: Lecturer
-type: "Undergraduate course"
-venue: "University of Helsinki, Department of Economics"
-date: 2025
-title: "Game Theory"
-collection: Lecturer
-type: "Undergraduate course"
-venue: "University of Helsinki, Department of Economics"
-date: 2025
----
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
+Game Theory, BSc level
 ======
+Lecturer: spring 2025
+TA: spring 2022, 2023, 2024
 
-Heading 2
+Economic Growth, BSc level
 ======
-
-Heading 3
-======
+TA: spring 2022, 2023, 2024, 2025
