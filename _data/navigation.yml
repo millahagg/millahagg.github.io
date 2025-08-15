@@ -5,7 +5,7 @@ main:
     url: /files/cv_hagg_aug25.pdf
 
   - title: "Teaching"
-    url: /files/ 
+    url: /uofh_teaching.md
 
   - title: "Contact"
     url: /files/
