@@ -9,20 +9,23 @@ redirect_from:
 
 I am a 4th year PhD student at the Helsinki Graduate School of Economics, under the supervision of Otto Toivanen and Torsten Santavirta. I work on industrial organization and health economics. Most of my current research is focused on pharmaceutical markets: I study entry, mergers and acquisitions as well as firm, patient and physician behaviour in these markets.
 
+## Working papers
+
+**History Dependence and Firm Incentives in Free Contraception Programs** *with E. Jussila* **Draft available upon request**
+
+**Price and Non-price Effects of Cross-market Mergers in Regulated Markets** *with M. Siikanen* **Draft available upon request**
+
+**Long-term Effects of Maternity Ward Closures on Children** *with M. Kortelainen* **Draft available upon request**
+
 
 ## Work in progress
 
-**History Dependence and Firm Incentives in Free Contraception Programs** *with E. Jussila* 
-
-**Price and Non-price Effects of Cross-market Mergers in Regulated Markets** *with M. Siikanen*
-
-**Long-term Effects of Maternity Ward Closures on Children** *with M. Kortelainen*
-
 **Physician Prescribing Behaviour in Markets with Dispersed Prices**
+
+**Adoption and Effects of Free Contraception Programs** *with E. Jussila, M. Kortelainen, S. Metsälampi & M. Viertola*
 
 **Entry in the Nordic Pharmaceutical Markets** *with J. Markkanen, M. Kortelainen, M. Siikanen & O. Toivanen*
 
-**Adoption and Effects of Free Contraception Programs** *with E. Jussila, M. Kortelainen, S. Metsälampi & M. Viertola*
 
 ## Publications
 **The Indirect Effect of mRNA-based COVID-19 Vaccination on Healthcare Workers’ Unvaccinated Household Members**
