@@ -16,7 +16,8 @@ I am a 5th year PhD student at the Helsinki Graduate School of Economics, under 
 **History Dependence and Firm Incentives in Free Contraception Programs** *with [E. Jussila](https://elinajussila.github.io/)*, *draft available upon request*
 
 We study pharmaceutical wholesalers' invest-and-harvest strategies in the birth control pill market in Finland. Contraceptives are provided free of charge at healthcare providers for women under a certain age limit, but once ineligible, young women wishing to continue using the same method and product must purchase the product at a retail pharmacy and pay for it entirely out of pocket. We observe that large share of the individuals continue using the exact product they used in the program even when cheaper substitutes exist and switching is virtually costless. Pharmaceutical firms use this history dependence to lock in consumers and offer their products at significant price reductions to be handed out in the free programs. They exhibit a pattern of foregoing profits in the first stage to reap the benefits of the path-dependent consumer in the unregulated retail pharmacy market later on. Using a novel survey data set on free program practices as well as administrative prescription and purchase data from Finland, we first confirm the presence of history dependence in drug use behavior with reduced form methods and a structural demand model incorporating history dependence. We then estimate the supply structurally and produce counterfactuals including varying the age limits, program coverage and competitive environment.
-<br>
+<br><br>
+
 
 
 
