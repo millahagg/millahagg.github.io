@@ -13,25 +13,21 @@ I am a 4th year PhD student at the Helsinki Graduate School of Economics, under 
 
 ## Working papers
 
-**History Dependence and Firm Incentives in Free Contraception Programs** *with [E. Jussila](https://elinajussila.github.io/)*
-
-**Draft available upon request**
+**History Dependence and Firm Incentives in Free Contraception Programs** *with [E. Jussila](https://elinajussila.github.io/)* **Draft available upon request**
 
 We study pharmaceutical wholesalers' invest-and-harvest strategies in the birth control pill market in Finland. Contraceptives are provided free of charge at healthcare providers for women under a certain age limit, but once ineligible, young women wishing to continue using the same method and product must purchase the product at a retail pharmacy and pay for it entirely out of pocket. We observe that large share of the individuals continue using the exact product they used in the program even when cheaper substitutes exist and switching is virtually costless. Pharmaceutical firms use this history dependence to lock in consumers and offer their products at significant price reductions to be handed out in the free programs. They exhibit a pattern of foregoing profits in the first stage to reap the benefits of the path-dependent consumer in the unregulated retail pharmacy market later on. Using a novel survey data set on free program practices as well as administrative prescription and purchase data from Finland, we first confirm the presence of history dependence in drug use behavior with reduced form methods and a structural demand model incorporating history dependence. We then estimate the supply structurally and produce counterfactuals including varying the age limits, program coverage and competitive environment.
 
 
-**Price and Non-price Effects of Cross-market Mergers in Regulated Markets** *with M. Siikanen*
 
-**Draft available upon request**
+**Price and Non-price Effects of Cross-market Mergers in Regulated Markets** *with M. Siikanen* **Draft available upon request**
 <details>
   <summary>Show Abstract</summary>
 We study how cross-market mergers affect price and non-price outcomes in two Nordic countries, Finland and Sweden, that have differing regulatory environments. Cross-market mergers entail the merging of two firms that compete in different active ingredient markets, that are used to treat the same illnesses. The customers can therefore be seen as common, even though the markets are separate. We use product-level price and quantity data from the two countries and analyze the effects of the mergers on expenditure, prices, sales and assortment, analyzing the differences in net, target firm and rival firm effects using differences-in-differences. We find that in the stricter regulatory environment of Sweden expenditure and prices decrease significantly, whereas sales stay relatively constant. The increase stems from an increasing number of products available. In Finland, where the regulation is laxer, prices increase and the assortment shrinks. Expenditure decreases non-significantly, as do sales. The paper offers novel insights into the joint effects of market regulation and mergers, a topic previously understudied.
 </details>
 
 
-**Long-term Effects of Maternity Ward Closures on Children** *with M. Kortelainen*
 
-**Draft available upon request**
+**Long-term Effects of Maternity Ward Closures on Children** *with M. Kortelainen* **Draft available upon request**
 
 <details>
   <summary>Show Abstract</summary>
