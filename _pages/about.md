@@ -12,7 +12,7 @@ I am a 5th year PhD student at the Helsinki Graduate School of Economics, under 
 **I will be on the 2025/2026 academic job market.**
 
 ## <i class="fas fa-capsules" style="margin-right: 8px;"></i> Job market paper <i class="fas fa-capsules" style="margin-left: 8px;"></i>
-<i class="fas fa-pills"></i>
+
 **History Dependence and Firm Incentives in Free Contraception Programs** *with [E. Jussila](https://elinajussila.github.io/)*, *draft available upon request*
 
 
