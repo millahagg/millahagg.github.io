@@ -2,7 +2,9 @@
 Game Theory, BSc level
 ======
 Lecturer: spring 2025
+<br>
 TA: spring 2022, 2023, 2024
+<br>
 
 Economic Growth, BSc level
 ======
