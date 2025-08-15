@@ -13,7 +13,7 @@ I am a 4th year PhD student at the Helsinki Graduate School of Economics, under 
 
 ## Working papers
 
-**History Dependence and Firm Incentives in Free Contraception Programs** *with E. Jussila*
+**History Dependence and Firm Incentives in Free Contraception Programs** *with [E. Jussila](https://elinajussila.github.io/)*
 
 **Draft available upon request**
 
@@ -44,7 +44,7 @@ We study how cross-market mergers affect price and non-price outcomes in two Nor
 
 **Physician Prescribing Behaviour in Markets with Dispersed Prices**
 
-**Adoption and Effects of Free Contraception Programs** *with E. Jussila, M. Kortelainen, S. Metsälampi & M. Viertola*
+**Adoption and Effects of Free Contraception Programs** *with [E. Jussila](https://elinajussila.github.io/), M. Kortelainen, S. Metsälampi & [M. Viertola](https://viertolam.github.io/)*
 
 **Entry in the Nordic Pharmaceutical Markets** *with J. Markkanen, M. Kortelainen, M. Siikanen & O. Toivanen*
 
