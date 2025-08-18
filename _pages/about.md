@@ -36,6 +36,7 @@ We study how cross-market mergers affect price and non-price outcomes in two Nor
 </details>
 
 
+<br><br>
 
 ## Work in progress
 
@@ -45,11 +46,13 @@ We study how cross-market mergers affect price and non-price outcomes in two Nor
 **Adoption and Effects of Free Contraception Programs** *with [E. Jussila](https://elinajussila.github.io/), M. Kortelainen, S. Metsälampi & [M. Viertola](https://viertolam.github.io/)*
 
 **Entry in the Nordic Pharmaceutical Markets** *with J. Markkanen, M. Kortelainen, M. Siikanen & O. Toivanen*
+<br><br>
 
 
 ## Publications
 **The Indirect Effect of mRNA-based COVID-19 Vaccination on Healthcare Workers’ Unvaccinated Household Members**
 *In Nature Communications (2022) 13:1162 with J. Salo, M. Kortelainen, T. Leino, T. Saxell, M. Siikanen & L. Sääksvuori,* **[LINK](https://www.nature.com/articles/s41467-022-28825-4)**
+<br><br>
 
 ## Policy work
 **Additional Public Procurement in Health Services: Lessons from Finnish Physiotherapy Markets**
