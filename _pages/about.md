@@ -19,6 +19,11 @@ I am a 5th year PhD student at the University of Helsinki and the [Helsinki Grad
 We study pharmaceutical wholesalers' invest-and-harvest strategies in the birth control pill market in Finland. Contraceptives are provided free of charge at healthcare providers for women under a certain age limit, but once ineligible, young women wishing to continue using the same method and product must purchase the product at a retail pharmacy and pay for it entirely out of pocket. We observe that large share of the individuals continue using the exact product they used in the program even when cheaper substitutes exist and switching is virtually costless. Pharmaceutical firms use this history dependence to lock in consumers and offer their products at significant price reductions to be handed out in the free programs. They exhibit a pattern of foregoing profits in the first stage to reap the benefits of the path-dependent consumer in the unregulated retail pharmacy market later on. Using a novel survey data set on free program practices as well as administrative prescription and purchase data from Finland, we first confirm the presence of history dependence in drug use behavior with reduced form methods and a structural demand model incorporating history dependence. We then estimate the supply structurally and produce counterfactuals including varying the age limits, program coverage and competitive environment.
 <br><br>
 
+## Publications
+**The Indirect Effect of mRNA-based COVID-19 Vaccination on Healthcare Workers’ Unvaccinated Household Members**
+*In Nature Communications (2022) 13:1162 with J. Salo, M. Kortelainen, T. Leino, T. Saxell, M. Siikanen & L. Sääksvuori,* **[LINK](https://www.nature.com/articles/s41467-022-28825-4)**
+<br><br>
+
 ## Working papers
 
 **Price and Non-price Effects of Cross-market Mergers in Regulated Markets** *with M. Siikanen*, *draft available upon request*
@@ -49,10 +54,6 @@ We study how cross-market mergers affect price and non-price outcomes in two Nor
 <br><br>
 
 
-## Publications
-**The Indirect Effect of mRNA-based COVID-19 Vaccination on Healthcare Workers’ Unvaccinated Household Members**
-*In Nature Communications (2022) 13:1162 with J. Salo, M. Kortelainen, T. Leino, T. Saxell, M. Siikanen & L. Sääksvuori,* **[LINK](https://www.nature.com/articles/s41467-022-28825-4)**
-<br><br>
 
 ## Policy work
 **Additional Public Procurement in Health Services: Lessons from Finnish Physiotherapy Markets**
