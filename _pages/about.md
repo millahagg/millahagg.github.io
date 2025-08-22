@@ -21,7 +21,7 @@ We study pharmaceutical wholesalers' invest-and-harvest strategies in the birth 
 
 ## Publications
 **The Indirect Effect of mRNA-based COVID-19 Vaccination on Healthcare Workers’ Unvaccinated Household Members**
-*In Nature Communications (2022) 13:1162 with J. Salo, M. Kortelainen, T. Leino, T. Saxell, M. Siikanen & L. Sääksvuori,* **[LINK](https://www.nature.com/articles/s41467-022-28825-4)**
+*In Nature Communications (2022) 13:1162 with J. Salo, [M. Kortelainen](https://sites.google.com/view/mikakorte/home), T. Leino, T. Saxell, M. Siikanen & L. Sääksvuori,* **[LINK](https://www.nature.com/articles/s41467-022-28825-4)**
 <details>
   <summary>Show Abstract</summary>
 Mass vaccination is effective in reducing SARS-CoV-2 infections among vaccinated individuals. However, it remains unclear how effectively COVID-19 vaccines prevent people from spreading the virus to their close contacts. Using nationwide administrative datasets on SARS-CoV-2 infections, vaccination records, demographics, and unique household IDs, we conducted an observational cohort study to estimate the direct and indirect effectiveness of mRNA-based COVID-19 vaccines in reducing infections among vaccinated healthcare workers and their unvaccinated household members. Our estimates for adults imply indirect effectiveness of 39.1% (95% CI: −7.1% to 65.3%) two weeks and 39.0% (95% CI: 18.9% to 54.0%) eight weeks after the second dose. We find that the indirect effect of mRNA-based COVID-19 vaccines within households is smaller for unvaccinated children than for adults and statistically insignificant. Here, we show that mRNA-based COVID-19 vaccines are associated with a reduction in SARS-CoV-2 infections not only among vaccinated individuals but also among unvaccinated adult household members in a real-world setting.
@@ -38,7 +38,7 @@ We study how cross-market mergers affect price and non-price outcomes in two Nor
 <br>
 
 
-**Long-term Effects of Maternity Ward Closures on Children** *with M. Kortelainen*, *draft available upon request*
+**Long-term Effects of Maternity Ward Closures on Children** *with [M. Kortelainen](https://sites.google.com/view/mikakorte/home)*, *draft available upon request*
 <details>
   <summary>Show Abstract</summary>
   It is widely known that early-life health interventions can affect long-term outcomes later in life. This paper studies how the closures of maternity wards affect short-term health outcomes as well as educational and labour market outcomes of children in their adulthood using a quasi-experimental research design and nationwide administrative data sets from Finland. Using difference-in-differences approach that allows for heterogeneous treatment effects in a staggered design, we find significant improvements in perinatal child health outcomes in the short run. In the long run, we find significant positive effects of closures on upper secondary educational attainment as well as employment and earnings. The paper contributes to a previously understudied topic on the effect of specialized healthcare unit closures on short-term health outcomes and long-term educational and labour market outcomes of children in the modern context.
@@ -52,9 +52,9 @@ We study how cross-market mergers affect price and non-price outcomes in two Nor
 
 **Physician Prescribing Behaviour in Markets with Dispersed Prices**
 
-**Adoption and Effects of Free Contraception Programs** *with [E. Jussila](https://elinajussila.github.io/), M. Kortelainen, S. Metsälampi & [M. Viertola](https://viertolam.github.io/)*
+**Adoption and Effects of Free Contraception Programs** *with [E. Jussila](https://elinajussila.github.io/), [M. Kortelainen](https://sites.google.com/view/mikakorte/home), [S. Metsälampi](https://satumetsa.github.io/) & [M. Viertola](https://viertolam.github.io/)*
 
-**Entry in the Nordic Pharmaceutical Markets** *with J. Markkanen, M. Kortelainen, M. Siikanen & O. Toivanen*
+**Entry in the Nordic Pharmaceutical Markets** *with J. Markkanen, [M. Kortelainen](https://sites.google.com/view/mikakorte/home), M. Siikanen & O. Toivanen*
 <br><br>
 
 
