@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a 5th year PhD student at the University of Helsinki and the [Helsinki Graduate School of Economics](https://www.helsinkigse.fi/), under the supervision of Otto Toivanen and Torsten Santavirta. I work on industrial organization and health economics. Most of my current research is focused on pharmaceutical markets: I study entry, mergers and acquisitions as well as firm, patient and physician behaviour in these markets.
+I am a 5th year PhD student at the University of Helsinki and the [Helsinki Graduate School of Economics](https://www.helsinkigse.fi/), under the supervision of [Otto Toivanen](https://aalto-econ.fi/toivanen/). I work on industrial organization and health economics. Most of my current research is focused on pharmaceutical markets: I study entry, mergers and acquisitions as well as firm, patient and physician behaviour in these markets.
 
 **I will be on the 2025/2026 job market.**
 
@@ -54,7 +54,7 @@ We study how cross-market mergers affect price and non-price outcomes in the pha
 
 **Adoption and Effects of Free Contraception Programs** *with [E. Jussila](https://elinajussila.github.io/), [M. Kortelainen](https://sites.google.com/view/mikakorte/home), [S. Metsälampi](https://satumetsa.github.io/) & [M. Viertola](https://viertolam.github.io/)*
 
-**Entry in the Nordic Pharmaceutical Markets** *with J. Markkanen, [M. Kortelainen](https://sites.google.com/view/mikakorte/home), M. Siikanen & O. Toivanen*
+**Entry in the Nordic Pharmaceutical Markets** *with J. Markkanen, [M. Kortelainen](https://sites.google.com/view/mikakorte/home), M. Siikanen & [O. Toivanen](https://aalto-econ.fi/toivanen/)*
 <br><br>
 
 
