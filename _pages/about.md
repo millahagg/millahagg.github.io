@@ -54,7 +54,7 @@ We study how cross-market mergers affect price and non-price outcomes in the pha
 
 **Adoption and Effects of Free Contraception Programs** *with [E. Jussila](https://elinajussila.github.io/), [M. Kortelainen](https://sites.google.com/view/mikakorte/home), [S. Metsälampi](https://satumetsa.github.io/) & [M. Viertola](https://viertolam.github.io/)*
 
-**Entry in the Nordic Pharmaceutical Markets** *with J. Markkanen, [M. Kortelainen](https://sites.google.com/view/mikakorte/home), M. Siikanen & [O. Toivanen](https://aalto-econ.fi/toivanen/)*
+**Entry in the Nordic Pharmaceutical Markets** *with J. Markkanen, M. Siikanen & [O. Toivanen](https://aalto-econ.fi/toivanen/)*
 <br><br>
 
 
