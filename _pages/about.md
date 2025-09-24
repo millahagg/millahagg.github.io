@@ -51,6 +51,8 @@ Mass vaccination is effective in reducing SARS-CoV-2 infections among vaccinated
 
 **Physician Prescribing Behaviour in Markets with Dispersed Prices**
 
+**What's good with the outside good? Estimating demand with different outside options**
+
 **Adoption and Effects of Free Contraception Programs** *with [E. Jussila](https://elinajussila.github.io/), [M. Kortelainen](https://sites.google.com/view/mikakorte/home), [S. Metsälampi](https://satumetsa.github.io/) & [M. Viertola](https://viertolam.github.io/)*
 
 **Entry in the Nordic Pharmaceutical Markets** *with J. Markkanen, M. Siikanen & [O. Toivanen](https://aalto-econ.fi/toivanen/)*
