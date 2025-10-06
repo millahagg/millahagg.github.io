@@ -52,7 +52,7 @@ We study how cross-market mergers affect price and non-price outcomes in the pha
 
 **Physician Prescribing Behaviour in Markets with Dispersed Prices**
 
-**What's Good with the Outside Good? Estimating Demand with Different Outside Options**
+**What's Good with the Outside Good? Estimating Demand with Different Potential Market Sizes**
 
 **Adoption and Effects of Free Contraception Programs** *with [E. Jussila](https://elinajussila.github.io/), [M. Kortelainen](https://sites.google.com/view/mikakorte/home), [S. Metsälampi](https://satumetsa.github.io/) & [M. Viertola](https://viertolam.github.io/)*
 
