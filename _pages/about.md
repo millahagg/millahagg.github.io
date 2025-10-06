@@ -21,7 +21,7 @@ We study pharmaceutical wholesalers' invest-and-harvest strategies in the birth 
 
 ## Publications
 **The Indirect Effect of mRNA-based COVID-19 Vaccination on Healthcare Workers’ Unvaccinated Household Members**
-*In Nature Communications (2022) 13:1162 with [J. Salo](https://www.jussipekkasalo.com/home), [M. Kortelainen](https://sites.google.com/view/mikakorte/home), T. Leino, T. Saxell, M. Siikanen & L. Sääksvuori,* **[LINK](https://www.nature.com/articles/s41467-022-28825-4)**
+*In Nature Communications (2022) 13:1162 with [J. Salo](https://www.jussipekkasalo.com/home), [M. Kortelainen](https://sites.google.com/view/mikakorte/home), T. Leino, [T. Saxell](https://sites.google.com/site/tsaxell/), [M. Siikanen](https://vatt.fi/en/researcher/siikanen-markku) & L. Sääksvuori,* **[LINK](https://www.nature.com/articles/s41467-022-28825-4)**
 <details>
   <summary>Show Abstract</summary>
 Mass vaccination is effective in reducing SARS-CoV-2 infections among vaccinated individuals. However, it remains unclear how effectively COVID-19 vaccines prevent people from spreading the virus to their close contacts. Using nationwide administrative datasets on SARS-CoV-2 infections, vaccination records, demographics, and unique household IDs, we conducted an observational cohort study to estimate the direct and indirect effectiveness of mRNA-based COVID-19 vaccines in reducing infections among vaccinated healthcare workers and their unvaccinated household members. Our estimates for adults imply indirect effectiveness of 39.1% (95% CI: −7.1% to 65.3%) two weeks and 39.0% (95% CI: 18.9% to 54.0%) eight weeks after the second dose. We find that the indirect effect of mRNA-based COVID-19 vaccines within households is smaller for unvaccinated children than for adults and statistically insignificant. Here, we show that mRNA-based COVID-19 vaccines are associated with a reduction in SARS-CoV-2 infections not only among vaccinated individuals but also among unvaccinated adult household members in a real-world setting.
@@ -30,7 +30,7 @@ Mass vaccination is effective in reducing SARS-CoV-2 infections among vaccinated
 
 ## Working papers
 
-**Price and Non-price Effects of Cross-market Mergers in Regulated Markets** *with M. Siikanen*, *draft available upon request*
+**Price and Non-price Effects of Cross-market Mergers in Regulated Markets** *with [M. Siikanen](https://vatt.fi/en/researcher/siikanen-markku)*, *draft available upon request*
 <details>
   <summary>Show Abstract</summary>
 We study how cross-market mergers affect price and non-price outcomes in the pharmaceutical markets of two Nordic countries, Finland and Sweden, that have differing regulatory environments. Cross-market mergers entail the merging of two firms that compete in different active ingredient markets, that are used to treat the same illnesses. The customers can therefore be seen as common, even though the markets are separate. We use product-level price and quantity data from the two countries and analyze the effects of the mergers on expenditure, prices, sales and assortment, analyzing the differences in net, target firm and rival firm effects using differences-in-differences. In both countries, we find no economically significant adverse effects of the studied mergers on pharmaceutical short term expenditure or prices. Second, we find no adverse effects on the pharmaceutical assortment or on market size. Third, we find merger effects vary markedly between target firms and rival firms, underscoring the importance of research designs in which control units are not directly exposed to the merger. Finally, we demonstrate the importance of defining the merger event correctly in time: the use of the announcement or deal date as the event may generate differing results. The paper offers novel insights into the joint effects of market regulation and mergers, a topic previously understudied in drug markets.
@@ -56,7 +56,7 @@ We study how cross-market mergers affect price and non-price outcomes in the pha
 
 **Adoption and Effects of Free Contraception Programs** *with [E. Jussila](https://elinajussila.github.io/), [M. Kortelainen](https://sites.google.com/view/mikakorte/home), [S. Metsälampi](https://satumetsa.github.io/) & [M. Viertola](https://viertolam.github.io/)*
 
-**Entry in the Nordic Pharmaceutical Markets** *with J. Markkanen, M. Siikanen & [O. Toivanen](https://aalto-econ.fi/toivanen/)*
+**Entry in the Nordic Pharmaceutical Markets** *with J. Markkanen, [M. Siikanen](https://vatt.fi/en/researcher/siikanen-markku) & [O. Toivanen](https://aalto-econ.fi/toivanen/)*
 <br><br>
 
 
