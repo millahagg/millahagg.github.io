@@ -53,10 +53,9 @@ We study how cross-market mergers affect price and non-price outcomes in the pha
 **Physician Prescribing Behaviour in Markets with Dispersed Prices**
 
 **Entry in the Nordic Pharmaceutical Markets** *with [J. Markkanen](https://markkaj.github.io/), [M. Siikanen](https://vatt.fi/en/researcher/siikanen-markku) & [O. Toivanen](https://aalto-econ.fi/toivanen/)*
-<br><br>
 
 **Adoption and Effects of Free Contraception Programs** *with [E. Jussila](https://elinajussila.github.io/), [M. Kortelainen](https://sites.google.com/view/mikakorte/home), [S. Metsälampi](https://satumetsa.github.io/) & [M. Viertola](https://viertolam.github.io/)*, **[Pre-analysis plan](https://osf.io/bgxq4)**
-
+<br><br>
 
 
 
