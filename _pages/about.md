@@ -28,7 +28,7 @@ Mass vaccination is effective in reducing SARS-CoV-2 infections among vaccinated
 
 ## Working papers
 
-**Price and Non-price Effects of Cross-market Mergers in Regulated Markets** *with [M. Siikanen](https://vatt.fi/en/researcher/siikanen-markku)*, *draft available upon request*
+**Price and Non-price Effects of Cross-market Mergers in Regulated Markets** *with [M. Siikanen](https://vatt.fi/en/researcher/siikanen-markku)*,  **[LINK](https://millahagg.github.io/files/Hagg_siikanen_Mergers_Dec25.pdf)**
 <details>
   <summary>Show Abstract</summary>
 We study how cross-market mergers affect price and non-price outcomes in the pharmaceutical markets of two Nordic countries, Finland and Sweden, that have differing regulatory environments. Cross-market mergers entail the merging of two firms that compete in different active ingredient markets, that are used to treat the same illnesses. The customers can therefore be seen as common, even though the markets are separate. We use product-level price and quantity data from the two countries and analyze the effects of the mergers on expenditure, prices, sales and assortment, analyzing the differences in net, target firm and rival firm effects using differences-in-differences. In both countries, we find no economically significant adverse effects of the studied mergers on pharmaceutical short term expenditure or prices. Second, we find no adverse effects on the pharmaceutical assortment or on market size. Third, we find merger effects vary markedly between target firms and rival firms, underscoring the importance of research designs in which control units are not directly exposed to the merger. Finally, we demonstrate the importance of defining the merger event correctly in time: the use of the announcement or deal date as the event may generate differing results. The paper offers novel insights into the joint effects of market regulation and mergers, a topic previously understudied in drug markets.
@@ -36,7 +36,7 @@ We study how cross-market mergers affect price and non-price outcomes in the pha
 <br>
 
 
-**Long-term Effects of Maternity Ward Closures on Children** *with [M. Kortelainen](https://sites.google.com/view/mikakorte/home)*, *draft available upon request*
+**Long-term Effects of Maternity Ward Closures on Children** *with [M. Kortelainen](https://sites.google.com/view/mikakorte/home)*, **[LINK](https://millahagg.github.io/files/Hagg_Kortelainen_MaternityWards_Dec25.pdf)**
 <details>
   <summary>Show Abstract</summary>
   It is widely known that early-life health interventions can affect long-term outcomes later in life. This paper studies how the closures of maternity wards affect short-term health outcomes as well as educational and labour market outcomes of children in their adulthood using a quasi-experimental research design and nationwide administrative data sets from Finland. Using difference-in-differences approach that allows for heterogeneous treatment effects in a staggered design, we find significant improvements in perinatal child health outcomes in the short run. In the long run, we find significant positive effects of closures on upper secondary educational attainment as well as employment and earnings. The paper contributes to a previously understudied topic on the effect of specialized healthcare unit closures on short-term health outcomes and long-term educational and labour market outcomes of children in the modern context.
