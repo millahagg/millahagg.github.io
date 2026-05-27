@@ -9,13 +9,7 @@ redirect_from:
 
 I am a 5th year PhD student at the University of Helsinki and the [Helsinki Graduate School of Economics](https://www.helsinkigse.fi/), under the supervision of [Otto Toivanen](https://aalto-econ.fi/toivanen/). I work on industrial organization and health economics. Most of my current research is focused on pharmaceutical markets: I study entry, mergers and acquisitions as well as firm, patient and physician behaviour in these markets.
 
-**I am on the 2025/2026 job market.**
-
-## <i class="fas fa-capsules" style="margin-right: 8px;"></i> Job market paper <i class="fas fa-capsules" style="margin-left: 8px;"></i>
-
-**History Dependence and Firm Incentives in Free Contraception Programs** *with [E. Jussila](https://elinajussila.github.io/)*, *Draft available upon request*
-
-We study pharmaceutical wholesalers’ invest-and-harvest strategies in Finland’s birth control pill market. Contraceptives are provided for free at healthcare providers for women under a certain age limit, but after aging out of eligibility, they must pay for the pills entirely out-of-pocket at retail pharmacies. Using individual-level prescription and purchase data, we estimate a structural model to conduct counterfactual analyses. The institutional setting allows for precise identification, separating true history dependence from unobserved heterogeneity. We find strong persistence in demand: individuals continue using the same product from the program, even when cheaper substitutes exist and switching without monetary cost is easily accessible. Firms exploit this history dependence, forgoing early-stage profits to capture path-dependent consumers later in the unregulated retail pharmacy market. In the first counterfactual, where history dependence is removed, prices decrease on average 13 % and firm profits decrease 8 % on average. The estimated investment costs of 0.12 M€ contrasts with the harvesting benefits, for which the estimated upper bound is 0.57 M€. To understand the monetary costs and benefits of the programs for individuals, in the second counterfactual we abolish the hospital pharmacy sector and shift all demand to the retail pharmacy. Individuals end up paying approximately 240 % more for their contraception over their birth control pill use spells.<br><br>
+I will be joining the University of Vienna as an Assistant Professor in September 2026.
 
 ## Publications
 **The Indirect Effect of mRNA-based COVID-19 Vaccination on Healthcare Workers’ Unvaccinated Household Members**
@@ -27,6 +21,13 @@ Mass vaccination is effective in reducing SARS-CoV-2 infections among vaccinated
 <br><br>
 
 ## Working papers
+
+**History Dependence and Firm Incentives in Free Contraception Programs** *with [E. Jussila](https://elinajussila.github.io/)*, *Draft available upon request*
+<details>
+  <summary>Show Abstract</summary>
+We study pharmaceutical wholesalers’ invest-and-harvest strategies in Finland’s birth control pill market. Contraceptives are provided for free at healthcare providers for women under a certain age limit, but after aging out of eligibility, they must pay for the pills entirely out-of-pocket at retail pharmacies. Using individual-level prescription and purchase data, we estimate a structural model to conduct counterfactual analyses. The institutional setting allows for precise identification, separating true history dependence from unobserved heterogeneity. We find strong persistence in demand: individuals continue using the same product from the program, even when cheaper substitutes exist and switching without monetary cost is easily accessible. Firms exploit this history dependence, forgoing early-stage profits to capture path-dependent consumers later in the unregulated retail pharmacy market. In the first counterfactual, where history dependence is removed, prices decrease on average 13 % and firm profits decrease 8 % on average. The estimated investment costs of 0.12 M€ contrasts with the harvesting benefits, for which the estimated upper bound is 0.57 M€. To understand the monetary costs and benefits of the programs for individuals, in the second counterfactual we abolish the hospital pharmacy sector and shift all demand to the retail pharmacy. Individuals end up paying approximately 240 % more for their contraception over their birth control pill use spells.<br><br>
+</details>
+<br>
 
 **Price and Non-price Effects of Cross-market Mergers in Regulated Markets** *with [M. Siikanen](https://vatt.fi/en/researcher/siikanen-markku)*,  *Draft available upon request*
 <details>
