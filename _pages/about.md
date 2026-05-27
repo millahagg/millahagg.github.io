@@ -10,6 +10,7 @@ redirect_from:
 I am a 5th year PhD student at the University of Helsinki and the [Helsinki Graduate School of Economics](https://www.helsinkigse.fi/), under the supervision of [Otto Toivanen](https://aalto-econ.fi/toivanen/). I work on industrial organization and health economics. Most of my current research is focused on pharmaceutical markets: I study entry, mergers and acquisitions as well as firm, patient and physician behaviour in these markets.
 
 I will be joining the University of Vienna as an Assistant Professor in September 2026.
+<br><br>
 
 ## Publications
 **The Indirect Effect of mRNA-based COVID-19 Vaccination on Healthcare Workers’ Unvaccinated Household Members**
