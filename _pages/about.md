@@ -7,9 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor at the Department of Economics at the University of Vienna. I completed my PhD at the University of Helsinki and the [Helsinki Graduate School of Economics](https://www.helsinkigse.fi/) in 2026. I work on industrial organization and health economics. Most of my current research is focused on pharmaceutical markets: I study entry, mergers and acquisitions as well as firm, patient and physician behavior in these markets.
+I am an Assistant Professor at the Department of Economics at the University of Vienna. I completed my PhD at the University of Helsinki and the [Helsinki Graduate School of Economics](https://www.helsinkigse.fi/) in 2026.
 
-<br><br>
+I work on industrial organization and health economics. Most of my current research is focused on pharmaceutical markets: I study entry, mergers and acquisitions as well as firm, patient and physician behavior in these markets.
+
+<br>
 
 ## Publications
 **The Indirect Effect of mRNA-based COVID-19 Vaccination on Healthcare Workers’ Unvaccinated Household Members**
