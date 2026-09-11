@@ -24,11 +24,11 @@ author:
   avatar           : "milla_26.png"
   name             : "Milla Hägg"
   pronouns         : #"she/her"  
-  bio              : "Doctoral researcher in economics"
+  bio              : ""
   location         : #
-  employer         : "University of Helsinki"
+  employer         : "University of Vienna"
   uri              : # URL
-  email            : "milla.hagg@helsinki.fi" 
+  email            : "millahagg@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
