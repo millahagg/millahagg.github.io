@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor at the [Department of Economics at the University of Vienna](https://econ.univie.ac.at/). I completed my PhD at the University of Helsinki and the [Helsinki Graduate School of Economics](https://www.helsinkigse.fi/) in 2026.
+I am an Assistant Professor at the [Department of Economics at the University of Vienna](https://econ.univie.ac.at/). I am also affiliated with [Aalto University](https://www.aalto.fi/en/department-of-economics) and the [University of Helsinki](https://www.helsinki.fi/en/faculty-social-sciences/research/disciplines-and-research-units/economics). I completed my PhD at the University of Helsinki and the [Helsinki Graduate School of Economics](https://www.helsinkigse.fi/) in 2026.
 
 I work on industrial organization and health economics. Most of my current research is focused on pharmaceutical markets: I study entry, mergers and acquisitions as well as firm, patient and physician behavior in these markets.
 
