@@ -4,8 +4,8 @@ main:
   - title: "CV"
     url: /files/millahagg_cv_oct26.pdf
 
-  - title: "Teaching"
-    url: /teaching/
+  #- title: "Teaching"
+  #  url: /teaching/
 
   - title: "Contact"
     url: /contact/
